@@ -1,4 +1,4 @@
-# Week 1
+## Week 1
 
 ### On the syllabus
 * I feel like the syllabus is very overwhelming
