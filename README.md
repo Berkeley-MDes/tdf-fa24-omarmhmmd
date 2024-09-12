@@ -1,4 +1,4 @@
-## Week 2
+# Week 3
 I think I was feeling pretty overwhelmed after weeks 1-2. The Wednesday start, the Monday off; everything felt rushed and intense! Things have relaxed and I'm finding a rhythm between all my classes. I've had some time to finally think about this course and what I want to get out of it. My initial sketches and ideas for project one are below. I think this is the "final" stage of difficulty...but let's see how far I can get! It's a challenge using grasshopper, NOT GUNNA LIE. 
 
 ## Rehal رحل
@@ -37,7 +37,7 @@ My grasshopper code so far contains duplicates, which I don't think is the best 
 
 ---
 
-## Week 1
+# Week 2
 
 ### On the syllabus
 * I feel like the syllabus is very overwhelming
