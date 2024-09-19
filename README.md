@@ -1,3 +1,15 @@
+# Week 4
+Grasshopper is EXTREMELY popwerful. Before project 1, I had never worked with grasshopper, relying primarily on sketching and static rhino drawings to explore form and object properties. Exploring even the basics of grasshopper has opened my eyes to physical design and the overall design process. A simple garbage on the side of the road appears differently to me now; what methods and computation could I design this garbage can with in grasshopper that would produce novel ideas through the design process. 
+
+My first attempt at a parametericized design in grasshopper. I was mind blown at the possibilities this afforded. 
+![September_12_2024_15h45m13s](https://github.com/user-attachments/assets/1292295e-0c0f-4e42-b5e4-30f83bc62335)
+
+After many iterations and evaluations, my initial assumptions and ideas for to the project shifted. Grasshopper enabled me to break my idea down, realize it was "incorrect", and allow me to proceed to a successful outcome. 
+![September_12_2024_15h48m22s](https://github.com/user-attachments/assets/a761c65e-8f52-467f-9e7a-e402a59da72b)
+
+The project for this week was really great when it came to the software and the process, however the execution and timing was a little rough. I really believe we should have been given more time to explore, and perhaps had a critique of round 1/version 1 printouts. I'm hoping that future assignments will be more organized and give students ample time for the design process and the production process. 
+
+---
 # Week 3
 I think I was feeling pretty overwhelmed after weeks 1-2. The Wednesday start, the Monday off; everything felt rushed and intense! Things have relaxed and I'm finding a rhythm between all my classes. I've had some time to finally think about this course and what I want to get out of it. My initial sketches and ideas for project one are below. I think this is the "final" stage of difficulty...but let's see how far I can get! It's a challenge using grasshopper, NOT GUNNA LIE. 
 
