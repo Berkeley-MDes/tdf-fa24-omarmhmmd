@@ -1,3 +1,22 @@
+# Week 5-6
+Last week I presented some design work in Brooklyn, so I missed class! I have some experience with microcontrollers, however. This is a project I worked on during my last time at UC Berkeley: Qiblah https://omarmhmmd.notion.site/Qiblah-3f57157cfb984576a9d40ff4b4739832. It uses a bunch of components, leds, a compass, a touch capacitor, to make visible the direction of the qiblah through a physical interface. It took me about three weeks to complete.
+![image](https://github.com/user-attachments/assets/6ee16a69-c828-4f7b-abd3-d363743d0dce). 
+
+Right now, I'm not having much fun with the particle/photon. I don't think it's as intuitive as a raspberry pi and arduino, and definitely not beginner friendly. It's also way more "engineering" than a "design" tool. I'm confused on its usage in class. I was able to get the touch capacitor to work pretty easily though.
+![Photo on 10-3-24 at 1 17 PM](https://github.com/user-attachments/assets/b8020e50-61dd-4c10-8811-d317df5bdfc6)
+
+I have some ideas that I've been wanting to work on with microcontrollers for a while. One of them is a concept called MakkahTV, or MTV. https://www.are.na/omar-mhmmd/makkahtv.
+![October_03_2024_13h27m15s](https://github.com/user-attachments/assets/44a24870-aa25-4908-9ebd-8df3f3841108)
+
+Makkah has been live streamed on TV since I can remember watching a live satellite transmission at my grandparents as a child. This livestream has evolved to the internet as a YouTube live stream with a live message board. The holy city of the Prophet [SAW] Madinah is also live streamed. Cultural objects pertaining to Islamic prayer times have often taken on the form of the Ka'aba, the main center of focus in these live streams.
+![image](https://github.com/user-attachments/assets/cf501503-66c4-4eea-b62e-d5357bfd9703)
+
+I imagine a meta-object, a ka'aba "televsion" whos walls are the screens of the live stream, depicting itself. 
+![IMG_0031](https://github.com/user-attachments/assets/15265d24-23ff-4e4d-a8b7-4acfd02cd917)
+
+In this sketch, a 3D printed cube houses small screens that are connected to a youtube live stream, through a rasberry pi that is houses in an acrylic base. This use of material slightly emulates the actual build and materiality of the ka'aba, without being a 1:1 reference. I am conducting research on how the Photon can handle video, or if a need for a rpi will become necessary. I'm hoping to use my time in studio foundations to create the 3D and laser cut elements of the model. We shall see.
+
+---
 # Week 4
 Grasshopper is EXTREMELY popwerful. Before project 1, I had never worked with grasshopper, relying primarily on sketching and static rhino drawings to explore form and object properties. Exploring even the basics of grasshopper has opened my eyes to physical design and the overall design process. A simple garbage on the side of the road appears differently to me now; what methods and computation could I design this garbage can with in grasshopper that would produce novel ideas through the design process. 
 
