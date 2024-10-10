@@ -1,3 +1,6 @@
+# Week 7
+WIP
+
 # Week 5-6
 Last week I presented some design work in Brooklyn, so I missed class! I have some experience with microcontrollers, however. This is a project I worked on during my last time at UC Berkeley: Qiblah https://omarmhmmd.notion.site/Qiblah-3f57157cfb984576a9d40ff4b4739832.
 
