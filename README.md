@@ -11,6 +11,8 @@ During critique, only with the professor, we were told we needed three inputs. I
 
 For now we will be adding an "on/off" button, a dial for "speeding up" the process, and a sensor that recognizes a viewer is present to restart the procedure over again. 
 
+This is our [working doc](https://docs.google.com/document/d/1-4qWT8x8U70rVELNhtWvcTt5QF2wPjlXmcCdbx9gS9E/edit) for now. 
+
 # Week 5-6
 Last week I presented some design work in Brooklyn, so I missed class! I have some experience with microcontrollers, however. This is a project I worked on during my last time at UC Berkeley: Qiblah https://omarmhmmd.notion.site/Qiblah-3f57157cfb984576a9d40ff4b4739832.
 
