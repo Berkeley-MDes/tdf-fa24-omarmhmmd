@@ -1,5 +1,15 @@
 # Week 7
-WIP
+For this week, my teammates and I, Abdi & Joseline, got to work on brainstorming concepts for Project #2. I did not know think that we would jump straight into group project mode without personal time to experiment and explore, so scratch last weeks concept about MakkahTV. I wish there would have been time to explore something more personal and research based, rather than an amalgamation of different components into one project. 
+
+Our first concept was introduced by Abdi, who stated he wanted to relate our work to the global war conflicts occuring around the world; something more intentional and thoughtful versus a simple gadget. I knew there exists a an org called [Tech for Palestine](https://data.techforpalestine.org/), and we also stated we wanted to explore with an API, so I knew exactly where the project could land. 
+
+After an initial brainstorm we introduced a lo-fidelity poetic object, that uses the API and simple LEDs to abstractly represent each Palestinian death recorded. As of today, 42,894 Palestinians have been murdered by Israel. Conceptually, if we flashed an LED every second in regards to each death, that would take 42,894 seconds, which would result in 11 hrs 54 min 54 sec of blinking lights. In order for the process to complete, a viewer would have to "watch" this object for almost 12 hours. Since that's an unrealistic experience, the magnitude of the project lies inherently in its absurdity. Here is a potential schematic: 
+
+![image](https://github.com/user-attachments/assets/90f6bc74-5db0-4e49-ae5d-3eaea2774af7)
+
+During critique, only with the professor, we were told we needed three inputs. It turned into simple gestures of "add a sensor that begins the loop" or a "button" to get things started. Immediately the criticality of the concept was dumped in order to fulfill "requirements"; philosophically I believe that this unneccesary grafting of technology has placed us in the shallow depths of the field currently. What do we teach designers when we ask them to "use up" as much of the design possibilities as possible? Adding more features for the sake of adding more features is a critical piece of emerging technologies that I think we should be thinking about and applying to our work. 
+
+For now we will be adding an "on/off" button, a dial for "speeding up" the process, and a sensor that recognizes a viewer is present to restart the procedure over again. 
 
 # Week 5-6
 Last week I presented some design work in Brooklyn, so I missed class! I have some experience with microcontrollers, however. This is a project I worked on during my last time at UC Berkeley: Qiblah https://omarmhmmd.notion.site/Qiblah-3f57157cfb984576a9d40ff4b4739832.
