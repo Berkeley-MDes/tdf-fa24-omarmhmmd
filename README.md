@@ -1,3 +1,6 @@
+# Week 8
+WIP
+
 # Week 7
 For this week, my teammates and I, Abdi & Joseline, got to work on brainstorming concepts for Project #2. I did not know think that we would jump straight into group project mode without personal time to experiment and explore, so scratch last weeks concept about MakkahTV. I wish there would have been time to explore something more personal and research based, rather than an amalgamation of different components into one project. 
 
