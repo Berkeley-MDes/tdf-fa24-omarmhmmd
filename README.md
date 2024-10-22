@@ -1,5 +1,101 @@
 # Week 8
-WIP
+Tasks for this week included understanding how Photon 2 deals with APIs and JSON parsing. It was a CHALLENGE. After reviewing [Tommy's super helpful tutorial doc
+](https://github.com/Berkeley-MDes/tdf-fa24-TommyJing0/blob/main/Week%207.md), I was able to understand how the Particle console deals with API integration. 
+
+![October_21_2024_17h34m49s](https://github.com/user-attachments/assets/92a5d261-280d-40f5-9e33-ab87a762e568)
+
+In the console, it is super simple to set up a custom webhook using an existing API. Simple form input, set the request to a "GET", and use the ``` Particle.subscribe() and Paritcle.publish() ``` functions with custom parameters to get the API going. 
+
+A simple response looks like this in code:
+
+``` C++
+  void setup() {
+  display.begin(SSD1306_SWITCHCAPVCC, 0x3D);  // 0x3D is the I2C address for most 128x64 OLED displays
+
+  display.clearDisplay();
+
+  String data = String(10);
+  Particle.publish("getDeathTotal", data, PRIVATE);
+  Particle.subscribe("hook-response/getDeathTotal", myHandler, MY_DEVICES);
+}
+
+
+void myHandler(const char* event, const char* data) {
+    display.setCursor(0, 0);
+    display.setTextSize(1);
+    display.setTextColor(WHITE);
+
+    // Parse the JSON response to extract the "last_update" field
+    StaticJsonDocument<512> doc; // Increased size for larger JSON
+    DeserializationError error = deserializeJson(doc, data);
+    
+     const char* lastUpdate = doc["gaza"]["last_update"];
+     int totalKilled = doc["gaza"]["killed"]["total"]; // Directly assign to an int
+     display.print("Total Killed:");
+     display.print(totalKilled); // Print the total killed number
+    
+     display.display();
+}
+```
+I initially was using a dataset with total deaths, which had almost 50,000 entries. The Photon had an extremely tough time parsing this data. I found a much [simpler API](https://data.techforpalestine.org/api/v3/summary.json) that gives data as a simple JSON object. 
+
+It looks like this:
+
+``` JSON
+
+  "gaza": {
+    "reports": 380,
+    "last_update": "2024-10-20",
+    "massacres": 3709,
+    "killed": {
+      "total": 42603,
+      "children": 17029,
+      "women": 11585,
+      "civil_defence": 85,
+      "press": 177,
+      "medical": 986
+    },
+    "injured": {
+      "total": 99795
+    }
+  },
+  "west_bank": {
+    "reports": 380,
+    "last_update": "2024-10-20",
+    "settler_attacks": 1486,
+    "killed": {
+      "total": 728,
+      "children": 159
+    },
+    "injured": {
+      "total": 6471,
+      "children": 1052
+    }
+  },
+  "known_killed_in_gaza": {
+    "records": 34344,
+    "female": {
+      "child": 4936,
+      "adult": 6643,
+      "senior": 791
+    },
+    "male": {
+      "child": 6419,
+      "adult": 14347,
+      "senior": 1208
+    }
+  },
+  "known_press_killed_in_gaza": {
+    "records": 177
+  }
+}
+```
+
+The data was successfully displayed on screen, however a small text bug has appeared. I assume converting this to a string first will handle the issue. 
+
+![IMG_9131](https://github.com/user-attachments/assets/da8a177e-4ce1-4b4b-a0f6-8d408d89203a)
+
+We are currently putting all of the inputs and components together. 
 
 # Week 7
 For this week, my teammates and I, Abdi & Joseline, got to work on brainstorming concepts for Project #2. I did not know think that we would jump straight into group project mode without personal time to experiment and explore, so scratch last weeks concept about MakkahTV. I wish there would have been time to explore something more personal and research based, rather than an amalgamation of different components into one project. 
