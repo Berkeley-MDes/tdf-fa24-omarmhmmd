@@ -1,3 +1,24 @@
+# Week 9
+This week was the final push for our project. Abdi did an amazing job getting the casing for all of our components together. We had to create a casing that would hold our sensors, LEDs, and OLED display fit all snug and tight. 
+
+![IMG_9190](https://github.com/user-attachments/assets/b242e565-b078-41d6-aa12-1d6cb295353c)
+
+After getting all the pieces assembled, I wish there would have been more time to explore PCBs and actually soldering all of the connectors together. This "prototype" mode had to stay static and any type of movement affected the pins resulting in need for debugging. 
+
+![IMG_9195](https://github.com/user-attachments/assets/08e805a3-998c-4c54-b441-4fc2851cee60)
+
+The OLED display reads "Israel has killed 42718 Palestinians" with that number being updated everyday. 
+
+https://github.com/user-attachments/assets/1509f138-1254-4092-ba3c-5f5901a5b780
+
+The Palestinian Death Counter project, developed by Joseline Chang, Omar Osman Mohammad, and Abdi Hamisi Ambari, seeks to evoke an emotional response by displaying the real-time death toll in Gaza. Utilizing the Photon 2, OLED screens, ultrasonic sensors, LEDs, and an API from Tech for Palestine, the system integrates 3 inputs and 3 outputs, surpassing the original project requirements. The objective is to create a powerful, unsettling technological artifact that symbolizes the ongoing genocide in Palestine, represented through abstract visuals like flickering LEDS in the colors of the Palestinian flag and dynamic counter displays on OLED screens. Team roles are clearly divided, with Omar focusing on the API, Joseline handling the physical technology assembly, and Abdi coding the LED displays. The project emphasizes sophisticated design, robustness, and skilled execution. Through a combination of symbolic components and indirect user engagement, the team hopes to provoke deep thought and emotional awareness in viewers. Expected outcomes include a finalized system that effectively conveys the rising death toll in Gaza through abstract but powerful visual elements.
+
+---
+
+After creating the final object, we immediately learned that the placement of the piece should not be a desktop object, but adhered to the wall. The display can be magnified, and lights used more intentionally to create a device that exists at the human scale, rather than a tabletop item. 
+
+Next iterations would explore these concepts of placement and human interaction. 
+
 # Week 8
 Tasks for this week included understanding how Photon 2 deals with APIs and JSON parsing. It was a CHALLENGE. After reviewing [Tommy's super helpful tutorial doc
 ](https://github.com/Berkeley-MDes/tdf-fa24-TommyJing0/blob/main/Week%207.md), I was able to understand how the Particle console deals with API integration. 
