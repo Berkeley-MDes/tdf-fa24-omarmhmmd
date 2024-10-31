@@ -1,3 +1,6 @@
+# Week 10
+WIP
+
 # Week 9
 This week was the final push for our project. Abdi did an amazing job getting the casing for all of our components together. We had to create a casing that would hold our sensors, LEDs, and OLED display fit all snug and tight. 
 
