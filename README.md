@@ -1,5 +1,17 @@
 # Week 10
-WIP
+This week I got my hands dirty wirh ZeroWidth. My original ideas were to compile all of Rumi's poetry and use the AI to bring out insights not readily avaialable to non-farsi speakers. I was able to find this repository on the internet archive:
+
+![November_04_2024_08h23m27s](https://github.com/user-attachments/assets/f0734c8f-b878-400b-bdef-cd03bffeed03)
+
+However, the chunk sizes became extremely huge and unmanageable. I am thinking to play around with this for the final project and see how I can manipulate the chunks even at a small scale to investigate line by line poems, like we investigate line by line code. 
+
+I was able to support my own chatbot, that digs into my CV. 
+
+![November_04_2024_08h22m02s](https://github.com/user-attachments/assets/977bc0e8-baeb-4789-8454-abbc978ce3f7)
+![November_04_2024_08h21m48s](https://github.com/user-attachments/assets/111fe6dd-7af6-41f5-8411-40b6f195e787)
+![November_04_2024_08h21m29s](https://github.com/user-attachments/assets/1c19c42b-2157-4062-a50e-0df64f1dad93)
+
+The tutorial TJ created was super instrumental in figuring this out, and I am eager to understand how to create your own knowledge bases to inform the outcomes. 
 
 # Week 9
 This week was the final push for our project. Abdi did an amazing job getting the casing for all of our components together. We had to create a casing that would hold our sensors, LEDs, and OLED display fit all snug and tight. 
