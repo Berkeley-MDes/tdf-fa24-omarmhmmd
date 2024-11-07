@@ -1,3 +1,6 @@
+# Week 11
+WIP
+
 # Week 10
 This week I got my hands dirty wirh ZeroWidth. My original ideas were to compile all of Rumi's poetry and use the AI to bring out insights not readily avaialable to non-farsi speakers. I was able to find this repository on the internet archive:
 
