@@ -175,6 +175,19 @@ I imagine a meta-object, a ka'aba "televsion" whos walls are the screens of the 
 ![IMG_0031](https://github.com/user-attachments/assets/15265d24-23ff-4e4d-a8b7-4acfd02cd917)
 
 In this sketch, a 3D printed cube houses small screens that are connected to a youtube live stream, through a rasberry pi that is houses in an acrylic base. This use of material slightly emulates the actual build and materiality of the ka'aba, without being a 1:1 reference. I am conducting research on how the Photon can handle video, or if a need for a rpi will become necessary. I'm hoping to use my time in studio foundations to create the 3D and laser cut elements of the model. We shall see.
+---
+# Week 4.5 
+This week I was excused for travelling to Brooklyn to give a talk on a conference about design, typography, and translation. It was a beautiful conference and I shared my work in regards to a typeface I designed called Bamyan. 
+
+![November_18_2024_10h14m10s](https://github.com/user-attachments/assets/52fd8a27-febf-4862-92a2-9dcee5574618)
+
+You can watch the video here! https://www.youtube.com/watch?v=aCglHCuxTLQ&t=1352s
+
+I had also reached out to the TA's and the professors but never got a response!
+
+![November_18_2024_10h13m24s](https://github.com/user-attachments/assets/788a8eaa-4ed6-48e5-806d-7fd748ee71eb)
+
+Thank you for understanding!
 
 ---
 # Week 4
