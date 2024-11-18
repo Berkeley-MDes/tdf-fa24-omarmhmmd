@@ -1,8 +1,26 @@
 # Week 11
-WIP
+
+This week, I focused on advancing my project, Exploring Translation Fidelity and AI in Interpreting Rumi’s Works. I finalized the progress report, detailing the system architecture, process flow, and key experiments that refined the agent’s ability to translate Rumi’s poetry between Farsi and English. The report emphasized the importance of chunk size and instruction design in preserving cultural nuances during translation.
+
+Additionally, I created a short film and a prototype demonstration, showcasing the agent’s ability to provide culturally relevant interpretations and seamless language transitions. Peer feedback suggested enhancing data structuring, exploring multilingual testing, and incorporating live demos to improve engagement, all of which will guide the next steps in this project. The final submission highlights both the potential and challenges of using AI for translating culturally rich works, underscoring its role in preserving and understanding literary heritage.
+
+##Reflections
+This week, I learned how critical backend refinements are in ensuring AI maintains fidelity to cultural and literary contexts. Experiments with instruction design and temperature adjustments demonstrated the nuanced impact small changes can have on translation outcomes. Creating the short film also helped me consider how to present such a complex system effectively, balancing technical details with emotional resonance. The feedback highlighted the project’s strengths and areas for improvement, especially regarding interactivity and multilingual testing.
+
+##Speculations
+Looking ahead, I plan to enhance the agent by refining chunking strategies and tokenization methods for even greater precision. Exploring its application in additional languages could uncover broader cultural implications of AI-driven translation. Furthermore, integrating real-time demonstrations and visual aids into future presentations will improve engagement and provide a clearer view of the agent’s capabilities. This project has the potential to become a valuable educational tool for bridging cultural divides through literary works like Rumi’s poetry.
+
+##Images and Visuals
+System Architecture Diagram
+
+Illustrates the data flow and components involved in translating Rumi's works.
+![November_18_2024_10h33m44s](https://github.com/user-attachments/assets/1125f2fd-eb29-42e1-a986-af2d3bce1e6b)
+
+Prototype Demonstration
+![November_18_2024_10h34m24s](https://github.com/user-attachments/assets/8f45ae59-7949-4cf5-99e3-d47a06b9c196)
 
 # Week 10
-This week I got my hands dirty wirh ZeroWidth. My original ideas were to compile all of Rumi's poetry and use the AI to bring out insights not readily avaialable to non-farsi speakers. I was able to find this repository on the internet archive:
+This week I got my hands dirty with ZeroWidth. My original ideas were to compile all of Rumi's poetry and use the AI to bring out insights not readily avaialable to non-farsi speakers. I was able to find this repository on the internet archive:
 
 ![November_04_2024_08h23m27s](https://github.com/user-attachments/assets/f0734c8f-b878-400b-bdef-cd03bffeed03)
 
