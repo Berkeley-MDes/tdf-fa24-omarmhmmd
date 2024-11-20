@@ -1,30 +1,29 @@
 # Week 12
 Weekly Report: Rehal Craft vs Digital Study
 Exploring Craftsmanship in the Age of CNC Technology
-Summary
-This week focused on advancing the Rehal Craft vs Digital Study project, which investigates the intersection of traditional Afghan craft techniques and modern CNC technology. The primary objectives were to develop proficiency in both handcraft and digital fabrication workflows, specifically for creating a rehal (book stand) using Grasshopper, Rhino, and traditional hand tools.
-Reflections
-The project has been challenging due to the lack of prior experience in both CNC technology and traditional craft techniques. Key insights emerged from exploring the nuanced differences between handcrafted and digitally fabricated design approaches:
 
+**Summary**
+This week focused on advancing the Rehal Craft vs Digital Study project, which investigates the intersection of traditional Afghan craft techniques and modern CNC technology. The primary objectives were to develop proficiency in both handcraft and digital fabrication workflows, specifically for creating a rehal (book stand) using Grasshopper, Rhino, and traditional hand tools.
+
+**Reflections**
+The project has been challenging due to the lack of prior experience in both CNC technology and traditional craft techniques. Key insights emerged from exploring the nuanced differences between handcrafted and digitally fabricated design approaches:
 Digital tools offer unprecedented precision and reproducibility
 Traditional craftsmanship preserves cultural authenticity and emotional resonance
 Grasshopper provides powerful parametric design capabilities, enabling rapid iteration and exploration of form
-
 The process of learning both methodologies has been illuminating, revealing the unique constraints and affordances of each approach. The ability to quickly modify design parameters in Grasshopper contrasts sharply with the methodical, hands-on approach of traditional craftsmanship.
-Speculations
-Looking ahead, the project offers promising avenues for exploration:
 
+**Speculations**
+Looking ahead, the project offers promising avenues for exploration:
 Investigate how digital fabrication can preserve and modernize cultural craft traditions
 Develop strategies for integrating CNC technology with indigenous design principles
 Create a comparative framework for evaluating craftsmanship across digital and traditional methods
 
 Potential future iterations could include:
-
 Exploring more complex Islamic geometric patterns
 Developing a modular design approach that bridges digital and traditional techniques
 Creating documentation that serves as a resource for diaspora communities interested in cultural preservation
 
-Conclusion
+**Conclusion**
 The Rehal Craft vs Digital Study project represents a critical examination of craftsmanship in the digital age. By comparing CNC and handcraft workflows, the project aims to provide insights into how technology can both preserve and transform traditional design practices. The ultimate goal is to create a proof of concept that demonstrates the potential for digital tools to enhance and extend cultural craftsmanship.
 Key deliverables remain:
 
@@ -32,8 +31,8 @@ A CNC-fabricated rehal
 A handcrafted rehal
 A comprehensive comparative analysis of both approaches
 
-Diagrams of workflow and structure:
-
+**Diagrams of workflow and structure:
+**
 ![November_20_2024_10h53m46s](https://github.com/user-attachments/assets/dabab4cd-73c4-4d75-be9e-99464d61863a)
 ![November_20_2024_10h53m05s](https://github.com/user-attachments/assets/c07e10b5-4b8d-4a28-9339-84fdb3fc2d7c)
 ![November_20_2024_10h50m08s](https://github.com/user-attachments/assets/96864a56-53c4-4e35-a218-04b22054214c)
